@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812436734342",
+    "project_id": "portifolio-app22-notification",
+    "storage_bucket": "portifolio-app22-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812436734342:android:91067721dada81ac1e2c07",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812436734342-uvqt1mcaauims329gbddb4rbjq7bl63o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvEoS0YqSYrIDWKOYhJX8i_qC6_Lug-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812436734342-uvqt1mcaauims329gbddb4rbjq7bl63o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
